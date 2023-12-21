@@ -1,0 +1,10 @@
+# 项目排除路径
+/common/target/
+/coustmer/coustmer-api/target/
+/coustmer/coustmer-application/target/
+/coustmer/coustmer-client/target/
+/coustmer/coustmer-server/target/
+/provider/provider-api/target/
+/provider/provider-application/target/
+/provider/provider-client/target/
+/provider/provider-server/target/
