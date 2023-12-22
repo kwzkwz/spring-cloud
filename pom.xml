@@ -19,6 +19,11 @@
         <module>coustmer/coustmer-server</module>
         <module>coustmer/coustmer-client</module>
         <module>common</module>
+        <module>provider2</module>
+        <module>provider2/provider-api2</module>
+        <module>provider2/provider-server2</module>
+        <module>provider2/provider-client2</module>
+        <module>provider2/provider-application2</module>
     </modules>
     <packaging>pom</packaging>
 

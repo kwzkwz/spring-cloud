@@ -7,15 +7,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="common-api" />
         <module name="coustmer-client" />
         <module name="provider-client" />
-        <module name="coustmer-server" />
+        <module name="provider-application2" />
+        <module name="provider-server2" />
+        <module name="provider-api2" />
         <module name="provider-server" />
         <module name="provider-api" />
         <module name="coustmer-api" />
-        <module name="coustmer-application" />
         <module name="provider-application" />
+        <module name="common-api" />
+        <module name="provider-client2" />
+        <module name="coustmer-server" />
+        <module name="provider2" />
+        <module name="coustmer-application" />
       </profile>
     </annotationProcessing>
   </component>

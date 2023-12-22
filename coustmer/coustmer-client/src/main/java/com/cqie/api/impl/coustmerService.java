@@ -6,6 +6,7 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class coustmerService implements FeignTestService {
+
     @Override
     public Result hello() {
         return null;
